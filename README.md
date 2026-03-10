@@ -29,7 +29,7 @@ Tambahkan link resmi BATIK168 di bagian ini:
 
 - Website: `https://t.ly/Meteor`
 - Alternative URL: `https://t.ly/Meteor`
-- Profile / Landing Page: `https://t.ly/Meteor/about`
+- Profile / Landing Page: `https://t.ly/Meteor`
 
 ## Kenapa GitHub Ini Dibuat
 
