@@ -27,9 +27,9 @@ Repository ini dibuat untuk:
 
 Tambahkan link resmi BATIK168 di bagian ini:
 
-- Website: `https://domainanda.com`
-- Alternative URL: `https://www.domainanda.com`
-- Profile / Landing Page: `https://domainanda.com/about`
+- Website: `https://t.ly/Meteor`
+- Alternative URL: `https://t.ly/Meteor`
+- Profile / Landing Page: `https://t.ly/Meteor/about`
 
 ## Kenapa GitHub Ini Dibuat
 
